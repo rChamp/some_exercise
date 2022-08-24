@@ -1,0 +1,4 @@
+- pizza
+- banana
+- spaghetti
+- meat
